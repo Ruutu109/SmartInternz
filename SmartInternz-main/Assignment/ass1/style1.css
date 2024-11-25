@@ -40,7 +40,7 @@ a {
 }
 
 .logo h1::before {
-  content: "C";
+  content: "R";
   color: bisque;
   font-size: 1.8rem;
 }
